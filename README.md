@@ -2,7 +2,7 @@
 
 Fact: The ox is a noble and lovable creature!
 
-Wouldn't it be fabulous if you could grow your herd of oxen according to a fibonacci sequence? Well, thanks to fibonoxy, now you can!
+Wouldn't it be fabulous if you could grow your herd of oxen according to a fibonacci sequence? Well, thanks to fibonoxy, now you can! Just in time for \#FactOxFriday
 
 ## Installation
 In a few simply command, fibonoxy can be all yours!
