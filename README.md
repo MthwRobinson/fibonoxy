@@ -10,6 +10,7 @@ In a few simply command, fibonoxy can be all yours!
 ```bash
 git clone git@github.com:MthwRobinson/fibonoxy.git
 cd fibonoxy
+pip install -r requirements.txt
 pip install -e .
 ```
 
